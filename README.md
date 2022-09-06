@@ -44,12 +44,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="37" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/confliicted/confliicted/blob/output/snake.svg" alt="Snake animation" />
-
-###
-Profile Readme Generator
