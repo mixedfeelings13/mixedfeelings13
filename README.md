@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorelai</h1>
-<h3 align="center">Software Engineer, fresh out of University</h3>
+<h3 align="center">Junior Integration Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mixedfeelings13&label=Profile%20views&color=0e75b6&style=flat" alt="mixedfeelings13" /> </p>
 
