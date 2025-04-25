@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonella</h1>
-<h3 align="center">Fullstack Dev at Tecnicas Competitivas</h3>
+<h3 align="center">Fullstack Dev at Zennio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mixedfeelings13&label=Profile%20views&color=0e75b6&style=flat" alt="mixedfeelings13" /> </p>
 
